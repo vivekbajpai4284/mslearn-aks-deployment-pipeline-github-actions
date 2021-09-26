@@ -1,5 +1,5 @@
 ---
-title: "We are Contoso"
+title: "Welcome to Spirion"
 headless: true
 ---
 
